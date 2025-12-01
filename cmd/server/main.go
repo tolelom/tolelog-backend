@@ -6,6 +6,8 @@ import (
 	"tolelom_api/internal/router"
 
 	"github.com/gofiber/fiber/v2"
+
+	_ "tolelom_api/docs"
 )
 
 func main() {
